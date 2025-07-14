@@ -128,7 +128,7 @@ The Cases and Deaths data together with the Hospital admissions data was transfo
 # Data Flows (1) Cases & Deaths Data:
 
 ### Solution Flow
-![Screenshot 2023-08-22 115115](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/6.Data%20Flows(1)-Cases%20%26%20Deaths/Data%20Flows%20(2).jpg)
+![Screenshot 2023-08-22 115115](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/Pipeline/Pipeline%20Design.jpg)
 
 ### Steps:
 1. Cases And Deaths Source (Azure Data Lake Storage Gen2 )
