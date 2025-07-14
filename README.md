@@ -95,7 +95,7 @@ Ingest "population by age" data for all EU Countries into the Data Lake to suppo
 
 
 ### Solution Flow
-![SOLUTION](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/assets/65592890/4f853edd-61b2-4479-be1f-aca81605fbcf)
+![SOLUTION](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/Pipeline/Pipeline%20Design.jpg)
 
 Steps:
 1. Create a Linked Service using an HTTP connector
