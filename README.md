@@ -106,11 +106,11 @@ Steps:
 6. Lookup to get all the parameters from json file, then pass it to ForEach ECDC DATA as shown below
 7. Schedule Trigger
 
-![Screenshot 2023-08-22 112844](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/assets/65592890/1db319c4-03ad-4187-b19e-73ab9517a651)
+![Screenshot 2023-08-22 112844](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/4.Data%20Ingestion%20fom%20Blob/Pipeline%20Design.jpg)
 
 ### Pipeline Design :
 
-![13 changes_madeto_pl](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/assets/65592890/ed161f6b-2e54-45d0-908a-d7ffcf680b27)
+![13 changes_madeto_pl](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/4.Data%20Ingestion%20fom%20Blob/Pipeline%20Design.jpg)
 
 # 2. DATA TRANSFORMATION
 
@@ -140,13 +140,13 @@ The Cases and Deaths data together with the Hospital admissions data was transfo
 7. Create a Sink dataset (Azure Data Lake Storage Gen2)
 8. Used Schedule Trigger
 
-![6 lookup](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/assets/65592890/b83197b6-4fff-4b59-a832-7f6c7745c361)
+![6 lookup](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/7.Data_Flow(2)_Hospital/13.selectnsink2.png.jpg)
 
 
 # Data Flows (2) Hospital Admissions Data:
 
 ### Solution Flow
-![Screenshot 2023-08-22 115705](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/assets/65592890/6936a920-d985-424c-892f-a285f8a16b11)
+![Screenshot 2023-08-22 115705](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/7.Data_Flow(2)_Hospital/4.select.png.jpg)
 
 ### Steps:
 1. Hospital Admissions Source (Azure Data Lake Storage Gen2 )
