@@ -47,7 +47,7 @@
 - HD Insight Cluster
 
 # Solution Architecture Overview
-![Solution](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/blob/main/Covidreporting_Azure_Screenshots/3.Environment_Setup/SOLUTION_ARCH.png)
+![Solution](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/3.Environment_Setup/SOLUTION_ARCH.png)
 
 
 ### DATA EXTRACTION/ INGESTION
@@ -68,7 +68,7 @@ We used various components of ADF Pipeline activities to ingest the data from bo
 Ingest "population by age" data for all EU Countries into the Data Lake to support the machine learning models with the data to predict an increase in Covid-19 mortality rate.
 
 ### Solution Flow
-![SolutionFlow](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/blob/main/Covidreporting_Azure_Screenshots/4.Data%20Ingestion%20from%20Blob/Module_Solution.jpeg)
+![SolutionFlow](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/4.Data%20Ingestion%20fom%20Blob/Module_Solution.jpeg)
 
 ### Steps:
 1. Create a Linked Service To Azure Blob Storage
