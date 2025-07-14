@@ -83,7 +83,7 @@ Ingest "population by age" data for all EU Countries into the Data Lake to suppo
 
 
 ### Pipeline Design :
-![Pipeline](https://github.com/hbuddana/Azure_Data_Factory_COVID-19_Reporting/blob/main/Covidreporting_Azure_Screenshots/4.Data%20Ingestion%20from%20Blob/13.delete_after_copy.png)
+![Pipeline](https://github.com/Felipe30chaves/Azure_Data_Factory_COVID-19_Reporting-Public/blob/main/4.Data%20Ingestion%20fom%20Blob/13.delete_after_copy.png)
 
 ### ECDC Data from Web to Destination Data Lake
 
